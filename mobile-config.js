@@ -1,6 +1,6 @@
 App.info({
   name: 'Todos',
-  description: 'A simple todo list app built in Meteor ***CHANGEMENT DANS MASTER***.',
+  description: 'A simple todo list app built in Meteor.',
   author: 'Percolate Studio Team',
   email: 'us@percolatestudio.com',
   website: 'http://percolatestudio.com',
